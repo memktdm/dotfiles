@@ -47,6 +47,19 @@ cp -r ~/dotfiles/.local/* ~/.local/
 - [quickshell-games-launchers](https://github.com/Eaquo/quickshell-games-launchers)
 - [zscroll](https://github.com/noctuid/zscroll)
 - [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
+- [swww](https://github.com/LGFae/swww) — Wallpaper daemon
+- hyprlock — Lock screen (Hyprland ecosystem)
+- hypridle — Idle daemon (Hyprland ecosystem)
+- brightnessctl — Brightness control
+- wireplumber — Audio session manager (provides `wpctl`)
+- playerctl — Media player control
+- grim — Screenshot tool (Wayland)
+- slurp — Area selection tool (used with grim)
+- wl-clipboard — Clipboard utilities (`wl-copy` / `wl-paste`)
+- nm-applet — NetworkManager system tray
+- fzf — Fuzzy finder (wallpaper picker)
+- pavucontrol — Volume control GUI
+- python-playerctl — Python bindings for playerctl (Waybar media widget)
 
 ---
 
@@ -95,6 +108,19 @@ cp -r ~/dotfiles/.local/* ~/.local/
 - [quickshell-games-launchers](https://github.com/Eaquo/quickshell-games-launchers)
 - [zscroll](https://github.com/noctuid/zscroll)
 - [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
+- [swww](https://github.com/LGFae/swww) — Demonio de fondo de pantalla
+- hyprlock — Pantalla de bloqueo (ecosistema Hyprland)
+- hypridle — Demonio de inactividad (ecosistema Hyprland)
+- brightnessctl — Control de brillo
+- wireplumber — Gestor de sesión de audio (provee `wpctl`)
+- playerctl — Control de reproductor multimedia
+- grim — Herramienta de captura de pantalla (Wayland)
+- slurp — Herramienta de selección de área (usada con grim)
+- wl-clipboard — Utilidades de portapapeles (`wl-copy` / `wl-paste`)
+- nm-applet — Bandeja del sistema NetworkManager
+- fzf — Buscador difuso (selector de fondos de pantalla)
+- pavucontrol — GUI de control de volumen
+- python-playerctl — Bindings Python para playerctl (widget multimedia de Waybar)
 
 ---
 
@@ -143,6 +169,19 @@ cp -r ~/dotfiles/.local/* ~/.local/
 - [quickshell-games-launchers](https://github.com/Eaquo/quickshell-games-launchers)
 - [zscroll](https://github.com/noctuid/zscroll)
 - [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
+- [swww](https://github.com/LGFae/swww) — 壁纸守护进程
+- hyprlock — 锁屏程序（Hyprland 生态）
+- hypridle — 空闲守护进程（Hyprland 生态）
+- brightnessctl — 亮度控制
+- wireplumber — 音频会话管理器（提供 `wpctl`）
+- playerctl — 媒体播放器控制
+- grim — 截图工具（Wayland）
+- slurp — 区域选择工具（与 grim 配合使用）
+- wl-clipboard — 剪贴板工具（`wl-copy` / `wl-paste`）
+- nm-applet — NetworkManager 系统托盘
+- fzf — 模糊查找器（壁纸选择器）
+- pavucontrol — 音量控制图形界面
+- python-playerctl — playerctl 的 Python 绑定（Waybar 媒体小部件）
 
 ---
 
@@ -191,6 +230,19 @@ cp -r ~/dotfiles/.local/* ~/.local/
 - [quickshell-games-launchers](https://github.com/Eaquo/quickshell-games-launchers)
 - [zscroll](https://github.com/noctuid/zscroll)
 - [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
+- [swww](https://github.com/LGFae/swww) — Duvar kağıdı arka plan servisi
+- hyprlock — Ekran kilitleme (Hyprland ekosistemi)
+- hypridle — Boşta kalma servisi (Hyprland ekosistemi)
+- brightnessctl — Parlaklık kontrolü
+- wireplumber — Ses oturumu yöneticisi (`wpctl` sağlar)
+- playerctl — Medya oynatıcı kontrolü
+- grim — Ekran görüntüsü aracı (Wayland)
+- slurp — Alan seçim aracı (grim ile kullanılır)
+- wl-clipboard — Pano araçları (`wl-copy` / `wl-paste`)
+- nm-applet — NetworkManager sistem tepsisi
+- fzf — Bulanık arama (duvar kağıdı seçici)
+- pavucontrol — Ses kontrolü arayüzü
+- python-playerctl — playerctl için Python bağlamaları (Waybar medya widget'ı)
 
 ---
 
@@ -239,3 +291,16 @@ cp -r ~/dotfiles/.local/* ~/.local/
 - [quickshell-games-launchers](https://github.com/Eaquo/quickshell-games-launchers)
 - [zscroll](https://github.com/noctuid/zscroll)
 - [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
+- [swww](https://github.com/LGFae/swww) — Hintergrundbild-Daemon
+- hyprlock — Bildschirmsperre (Hyprland-Ökosystem)
+- hypridle — Leerlauf-Daemon (Hyprland-Ökosystem)
+- brightnessctl — Helligkeitssteuerung
+- wireplumber — Audio-Sitzungsverwaltung (stellt `wpctl` bereit)
+- playerctl — Mediaplayer-Steuerung
+- grim — Screenshot-Tool (Wayland)
+- slurp — Bereichsauswahl-Tool (wird mit grim verwendet)
+- wl-clipboard — Zwischenablagen-Werkzeuge (`wl-copy` / `wl-paste`)
+- nm-applet — NetworkManager-Systemtray
+- fzf — Fuzzy-Suche (Hintergrundbild-Auswahl)
+- pavucontrol — Lautstärkeregelung (GUI)
+- python-playerctl — Python-Bindings für playerctl (Waybar-Medien-Widget)
