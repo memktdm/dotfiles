@@ -179,3 +179,48 @@ cp -r ~/dotfiles/.local/* ~/.local/
 - Fish shell
 - Fastfetch
 - SDDM
+
+---
+
+## 🇩🇪 Deutsch
+
+### Übersicht
+Persönliche Dotfiles für eine Hyprland-basierte Desktop-Umgebung unter Linux.
+
+### Inhalt
+| Komponente | Beschreibung |
+|------------|--------------|
+| **Hyprland** | Wayland-Compositor / Fenstermanager |
+| **Waybar** | Statusleiste |
+| **Rofi** | Anwendungsstarter |
+| **Kitty** | Terminal-Emulator |
+| **Fish** | Shell |
+| **Fastfetch** | Systeminformationsanzeige |
+| **Quickshell** | Shell-Widget-System |
+| **SDDM** | Anzeigemanager |
+| **Schriften** | Benutzerdefinierte Schriftarten |
+
+### Installation
+```bash
+# Repository klonen
+git clone https://github.com/memktdm/dotfiles.git ~/dotfiles
+
+# Konfigurationen nach ~/.config kopieren
+cp -r ~/dotfiles/.config/* ~/.config/
+
+# Schriften kopieren
+cp -r ~/dotfiles/fonts/* ~/.local/share/fonts/
+fc-cache -fv
+
+# Lokale Dateien kopieren
+cp -r ~/dotfiles/.local/* ~/.local/
+```
+
+### Voraussetzungen
+- Hyprland
+- Waybar
+- Rofi
+- Kitty
+- Fish shell
+- Fastfetch
+- SDDM
