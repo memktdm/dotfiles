@@ -44,6 +44,9 @@ cp -r ~/dotfiles/.local/* ~/.local/
 - Fish shell
 - Fastfetch
 - SDDM
+- [quickshell-games-launchers](https://github.com/Eaquo/quickshell-games-launchers)
+- [zscroll](https://github.com/noctuid/zscroll)
+- [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
 
 ---
 
@@ -89,6 +92,9 @@ cp -r ~/dotfiles/.local/* ~/.local/
 - Fish shell
 - Fastfetch
 - SDDM
+- [quickshell-games-launchers](https://github.com/Eaquo/quickshell-games-launchers)
+- [zscroll](https://github.com/noctuid/zscroll)
+- [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
 
 ---
 
@@ -134,6 +140,9 @@ cp -r ~/dotfiles/.local/* ~/.local/
 - Fish shell
 - Fastfetch
 - SDDM
+- [quickshell-games-launchers](https://github.com/Eaquo/quickshell-games-launchers)
+- [zscroll](https://github.com/noctuid/zscroll)
+- [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
 
 ---
 
@@ -179,6 +188,9 @@ cp -r ~/dotfiles/.local/* ~/.local/
 - Fish shell
 - Fastfetch
 - SDDM
+- [quickshell-games-launchers](https://github.com/Eaquo/quickshell-games-launchers)
+- [zscroll](https://github.com/noctuid/zscroll)
+- [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
 
 ---
 
@@ -224,3 +236,6 @@ cp -r ~/dotfiles/.local/* ~/.local/
 - Fish shell
 - Fastfetch
 - SDDM
+- [quickshell-games-launchers](https://github.com/Eaquo/quickshell-games-launchers)
+- [zscroll](https://github.com/noctuid/zscroll)
+- [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
