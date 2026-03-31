@@ -60,6 +60,8 @@ cp -r ~/dotfiles/.local/* ~/.local/
 - fzf — Fuzzy finder (wallpaper picker)
 - pavucontrol — Volume control GUI
 - python-playerctl — Python bindings for playerctl (Waybar media widget)
+- [quickshell](https://quickshell.outfoxxed.me) — Shell widget toolkit (game launcher)
+- dolphin — File manager
 
 ---
 
@@ -121,6 +123,8 @@ cp -r ~/dotfiles/.local/* ~/.local/
 - fzf — Buscador difuso (selector de fondos de pantalla)
 - pavucontrol — GUI de control de volumen
 - python-playerctl — Bindings Python para playerctl (widget multimedia de Waybar)
+- [quickshell](https://quickshell.outfoxxed.me) — Sistema de widgets de shell (lanzador de juegos)
+- dolphin — Gestor de archivos
 
 ---
 
@@ -182,6 +186,8 @@ cp -r ~/dotfiles/.local/* ~/.local/
 - fzf — 模糊查找器（壁纸选择器）
 - pavucontrol — 音量控制图形界面
 - python-playerctl — playerctl 的 Python 绑定（Waybar 媒体小部件）
+- [quickshell](https://quickshell.outfoxxed.me) — Shell 小部件工具包（游戏启动器）
+- dolphin — 文件管理器
 
 ---
 
@@ -243,6 +249,8 @@ cp -r ~/dotfiles/.local/* ~/.local/
 - fzf — Bulanık arama (duvar kağıdı seçici)
 - pavucontrol — Ses kontrolü arayüzü
 - python-playerctl — playerctl için Python bağlamaları (Waybar medya widget'ı)
+- [quickshell](https://quickshell.outfoxxed.me) — Kabuk widget araç seti (oyun başlatıcı)
+- dolphin — Dosya yöneticisi
 
 ---
 
@@ -304,3 +312,5 @@ cp -r ~/dotfiles/.local/* ~/.local/
 - fzf — Fuzzy-Suche (Hintergrundbild-Auswahl)
 - pavucontrol — Lautstärkeregelung (GUI)
 - python-playerctl — Python-Bindings für playerctl (Waybar-Medien-Widget)
+- [quickshell](https://quickshell.outfoxxed.me) — Shell-Widget-Toolkit (Spiele-Launcher)
+- dolphin — Dateimanager
